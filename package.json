@@ -1,0 +1,22 @@
+{
+  "name": "revelator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "revealing constructor pattern",
+    "promises",
+    "promisify"
+  ],
+  "author": "David Mark Clements",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "chai-as-promised": "^5.0.0",
+    "lie": "^2.9.1",
+    "mocha": "^2.2.5"
+  }
+}
